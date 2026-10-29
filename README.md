@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 CudaText Free Installer** — CudaText is a free, cross-platform code editor with syntax highlighting for 300+ languages, multi-caret editing, a plugin system in Python, and support for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 CudaText Free Installer** — CudaText is a free, open-source cross-platform code editor written in Lazarus/Pascal. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About CudaText
 
-CudaText is a free, cross-platform code editor with syntax highlighting for 300+ languages, multi-caret editing, a plugin system in Python, and support for Windows, macOS, and Linux. It provides Sublime Text-like features in a free, open-source package.
+CudaText is a free, open-source cross-platform code editor written in Lazarus/Pascal. Supports syntax highlighting for hundreds of languages, multi-caret editing, code snippets, a Python plugin system, and file tree navigation. CudaText aims to provide a Sublime Text-like experience with full open-source code and active development on Windows, macOS, and Linux.
 
 ---
 
 ## ❌ Problem: CudaText is hard to access
 
-- **Smaller Community** — Fewer plugins and themes than VS Code or Sublime Text
-- **Performance** — Not as fast as Sublime Text for very large files
-- **Plugin API** — Python plugin API less mature than VS Code extension system
-- **macOS Experience** — Less native-feeling than platform-native editors on Mac
+- **Community Size** — Smaller user base and plugin ecosystem than major editors
+- **IDE Features** — Less comprehensive IDE-like features than VS Code or JetBrains
+- **Documentation** — Some features lack comprehensive documentation
+- **Plugin Quality** — Community plugin quality varies significantly
 
 ---
 
@@ -121,7 +121,7 @@ CudaText is a free, cross-platform code editor with syntax highlighting for 300+
 
 ---
 
-**CudaText Free Installer** — CudaText is a free, cross-platform code editor with syntax highlighting for 300+ languages, multi-caret editing, a plugin system in Python, and support for Windows, macOS, and Linux. Install without internet connection today!
+**CudaText Free Installer** — CudaText is a free, open-source cross-platform code editor written in Lazarus/Pascal. Install without internet connection today!
 
 <div align="center">
 
